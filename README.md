@@ -1,0 +1,1 @@
+# -rik-extrator-de-palavras
